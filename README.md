@@ -1,23 +1,33 @@
-# Jogo da Memória em STM32
+# Jogo da Memória em STM32  
 
-Este é um projeto de jogo da memória de cartas desenvolvido para a plataforma de microcontrolador STM32.
-Ele foi criado como um projeto integrado para as disciplinas de Sistemas Embarcados e Linguagem de Programação, oferecendo uma experiência de jogo interativa em hardware embarcado.
+Este projeto implementa um **jogo da memória de cartas** na plataforma de microcontroladores **STM32**.  
+Foi desenvolvido como parte de um **projeto integrado** para as disciplinas de **Sistemas Embarcados** e **Linguagem de Programação**, proporcionando uma experiência de jogo **interativa em hardware embarcado**.  
 
-### Funcionalidades
+---
 
-* **Jogo da Memória Interativo:** O jogo consiste em encontrar pares de cartas idênticas em um tabuleiro virtual.
-* **Interface Visual:** As cartas e a interface do jogo são exibidas em uma tela conectada à placa STM32.
-* **Controle por Botões:** O jogador interage com o jogo utilizando os botões da própria placa, navegando e selecionando as cartas para virá-las.
+### 🎮 Funcionalidades  
 
-### Tecnologias Utilizadas
+* **Jogo da Memória Interativo:** O objetivo é encontrar pares de cartas idênticas em um tabuleiro virtual.  
+* **Interface Visual:** As cartas e o tabuleiro são exibidos em uma tela conectada ao STM32.  
+* **Controle por Botões:** O jogador navega e seleciona as cartas utilizando os botões físicos da placa.  
 
-* **Microcontrolador:** STM32
-* **Linguagem de Programação:** C
-* **Ambiente de Desenvolvimento:** STM32CubeIDE
+---
 
-### Proposta e Orientação
+### 🛠️ Tecnologias Utilizadas  
 
-Este projeto foi proposto e orientado pelos seguintes professores:
+* **Microcontrolador:** STM32  
+* **Linguagem de Programação:** C  
+* **IDE de Desenvolvimento:** STM32CubeIDE  
 
-* **Profa. Ana Letícia:** Disciplina de Sistemas Embarcados
-* **Prof. José Andery:** Disciplina de Linguagem de Programação
+---
+
+### 📚 Proposta e Orientação  
+
+Projeto desenvolvido como atividade acadêmica sob orientação dos professores:  
+
+* **Profa. Ana Letícia** – Sistemas Embarcados  
+* **Prof. José Andery** – Linguagem de Programação  
+
+### 👩‍💻 Autoria
+
+Projeto desenvolvido por Sabrina Faria, Thaiza Valentim e Yasmim Ribeiro.
